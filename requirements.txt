@@ -4,3 +4,4 @@ pandas
 numpy
 plotly
 plotly-express
+streamlit-extras
