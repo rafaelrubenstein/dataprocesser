@@ -1,6 +1,6 @@
 # dataprocesser
 
-Web application that allows user to clean their data
+Web application that allows user to clean their data - progess
 
 ## Features
 - Show the data set
